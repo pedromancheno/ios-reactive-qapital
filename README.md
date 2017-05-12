@@ -12,5 +12,9 @@ ruby ReactiveServer.ru
 You should now be able to run the sample app against the local server.
 
 ### References
+An introduction to Reactive Programming
 https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
+
+Illustrates how the different operators work. This shows the names of the operators
+in RxSwift but most names match in ReactiveSwift.
 http://rxmarbles.com
