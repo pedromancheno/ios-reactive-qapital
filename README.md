@@ -18,3 +18,5 @@ https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
 Illustrates how the different operators work. This shows the names of the operators
 in RxSwift but most names match in ReactiveSwift.
 http://rxmarbles.com
+
+A video of the talk can be found [here](https://www.facebook.com/cocoaheadssthlm/videos/1803840123264981/)
